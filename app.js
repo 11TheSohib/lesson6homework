@@ -8,3 +8,4 @@
 // }
 
 // console.log(kopMas(matn, 10));
+
